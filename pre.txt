@@ -1,0 +1,5 @@
+FileReader
+    - used for reading data from the file
+
+FileWriter
+    - used for writing data into the file
